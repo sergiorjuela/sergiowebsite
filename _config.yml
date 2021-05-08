@@ -1,6 +1,6 @@
 title:               Celeste
 url:                 https://sergiorjuela.github.io/
-baseurl:             /celeste
+baseurl:             /sergiowebsite
 
 markdown:            kramdown
 highlighter:         rouge
