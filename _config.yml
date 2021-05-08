@@ -1,6 +1,6 @@
 title:               Celeste
-url:                 https://nicoelayda.github.io
-baseurl:             ""
+url:                 http://sergiorjuela.github.io
+baseurl:             "/celeste"
 
 markdown:            kramdown
 highlighter:         rouge
